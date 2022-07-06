@@ -1,8 +1,5 @@
-# LineFollowingCar
-
-Simple Arudino project - A car which follows a line marked on the floor.
-
-To view code, switch branch to -
-
-### v1
-follows a straight line, starts at the beginning of a line and stops at the end
+1. BO motors (2)
+2. arduino
+3. motor shield
+4. IR sensor - attached to the front of the car (facing the floor, with sensitivity set to minimumn)
+5. floor made of a while straight line on a black surface
